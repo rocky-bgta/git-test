@@ -1,3 +1,4 @@
 Want to conflict
-1. I am from b-f-r branch Make conflict successful 
+1. I am from b-f-r branch Make conflict successful
 2. I will make conflict
+3. must make conflict
